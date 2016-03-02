@@ -1,0 +1,139 @@
+Report for Institution Code FHSM, Resource fhsm_mammals
+Usage stats for February 2016, generated on 2016/03/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 36
+Number of records retrieved in searches: 297
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: Unknown ; Times: 4
+	Country: France ; Times: 5
+	Country: United States ; Times: 21
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-02-02 ; Times: 2
+	Date: 2016-02-08 ; Times: 1
+	Date: 2016-02-16 ; Times: 1
+	Date: 2016-02-18 ; Times: 5
+	Date: 2016-02-04 ; Times: 1
+	Date: 2016-02-09 ; Times: 1
+	Date: 2016-02-22 ; Times: 1
+	Date: 2016-02-21 ; Times: 3
+	Date: 2016-02-19 ; Times: 2
+	Date: 2016-02-26 ; Times: 1
+	Date: 2016-02-24 ; Times: 3
+	Date: 2016-02-12 ; Times: 2
+	Date: 2016-02-17 ; Times: 3
+	Date: 2016-02-29 ; Times: 1
+	Date: 2016-02-11 ; Times: 1
+	Date: 2016-02-05 ; Times: 1
+	Date: 2016-02-03 ; Times: 1
+	Date: 2016-02-14 ; Times: 1
+	Date: 2016-02-10 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "30149" ; Times: 1
+	Query: "type:specimen specificepithet:hudsonius genus:zapus stateprovince:&#34;iowa&#34;" ; Times: 1
+	Query: "class:mammalia county:&#34;jefferson&#34; stateprovince:&#34;alabama&#34;" ; Times: 1
+	Query: "county:&#34;Hot Springs&#34; stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "38377" ; Times: 1
+	Query: "type:specimen specificepithet:hudsonius genus:zapus stateprovince:&#34;wyoming&#34;" ; Times: 1
+	Query: "Romerolagus diazi" ; Times: 3
+	Query: "Poliocitellus franklinii" ; Times: 1
+	Query: "stateprovince:&#34;texas&#34; specificepithet:palustris genus:Oryzomys year &gt;= 1990 year &lt;= 2015" ; Times: 1
+	Query: "type:specimen specificepithet:hudsonius genus:zapus stateprovince:&#34;tennessee&#34;" ; Times: 1
+	Query: "urocitellus stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "genus:spermophilus stateprovince:&#34;minnesota&#34;" ; Times: 2
+	Query: "mustela nigripes" ; Times: 2
+	Query: "genus:sorex county:&#34;clear creek&#34; (NOT institutioncode:CHAS OR institutioncode:USNM)" ; Times: 2
+	Query: "specificepithet:humeralis genus:nycticeius stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "Conepatus leuconotus type:specimen" ; Times: 1
+	Query: "33903" ; Times: 1
+	Query: "genus:Mustela specificepithet:nigripes stateprovince:(colorado OR kansas) year&gt;=1900" ; Times: 1
+	Query: "Myocastor coypus" ; Times: 5
+	Query: "specificepithet:humeralis genus:nycticeius stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "genus:Mustela specificepithet:nigripes mappable:1" ; Times: 2
+	Query: "type:specimen specificepithet:hudsonius genus:Zapus stateprovince:&#34;kansas&#34;" ; Times: 1
+	Query: "panthera tigris" ; Times: 1
+	Query: "sorex nanus" ; Times: 1
+	Query: "33755" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 61 (out of 512 download events in this period)
+Total number of records downloaded: 1696
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 22
+	Country: Unknown ; Times: 18
+	Country: Mexico ; Times: 19
+	Country: Canada ; Times: 1
+	Country: South Africa ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-02-23 ; Times: 1
+	Date: 2016-02-22 ; Times: 2
+	Date: 2016-02-18 ; Times: 6
+	Date: 2016-02-19 ; Times: 10
+	Date: 2016-02-12 ; Times: 2
+	Date: 2016-02-13 ; Times: 3
+	Date: 2016-02-10 ; Times: 3
+	Date: 2016-02-11 ; Times: 1
+	Date: 2016-02-16 ; Times: 3
+	Date: 2016-02-17 ; Times: 2
+	Date: 2016-02-14 ; Times: 4
+	Date: 2016-02-15 ; Times: 1
+	Date: 2016-02-02 ; Times: 2
+	Date: 2016-02-09 ; Times: 1
+	Date: 2016-02-08 ; Times: 1
+	Date: 2016-02-21 ; Times: 3
+	Date: 2016-02-27 ; Times: 4
+	Date: 2016-02-26 ; Times: 1
+	Date: 2016-02-25 ; Times: 1
+	Date: 2016-02-24 ; Times: 1
+	Date: 2016-02-01 ; Times: 1
+	Date: 2016-02-03 ; Times: 2
+	Date: 2016-02-28 ; Times: 3
+	Date: 2016-02-05 ; Times: 1
+	Date: 2016-02-04 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Delphinidae" ; Times: 1
+	Query: "county:&#34;Coconino&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "specificepithet:hudsonius genus:zapus stateprovince:&#34;minnesota&#34;" ; Times: 2
+	Query: "castor canadensis" ; Times: 1
+	Query: "Puma concolor" ; Times: 5
+	Query: "specificepithet:hudsonius genus:Zapus stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "ototylomys" ; Times: 1
+	Query: "county:&#34;Hot Springs&#34; stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "sinaloa" ; Times: 1
+	Query: "county:&#34;Jackson&#34; stateprovince:&#34;South Dakota&#34;" ; Times: 1
+	Query: "Callospermophilus lateralis" ; Times: 3
+	Query: "stateprovince:&#34;texas&#34; specificepithet:palustris genus:Oryzomys year &gt;= 1990 year &lt;= 2015" ; Times: 1
+	Query: "type:specimen specificepithet:hudsonius genus:zapus stateprovince:&#34;tennessee&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:hudsonius genus:zapus stateprovince:&#34;colorado&#34;" ; Times: 1
+	Query: "myotis thysanodes" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 18
+	Query: "puma concolor" ; Times: 8
+	Query: "spermophilus tridecemlineatus" ; Times: 1
+	Query: "ochotona princeps" ; Times: 1
+	Query: "Scapanus orarius" ; Times: 1
+	Query: "specificepithet:hudsonius genus:zapus stateprovince:&#34;south dakota&#34;" ; Times: 1
+	Query: "county:&#34;Graham&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "genus:sorex (NOT institutioncode:USNM)" ; Times: 1
+	Query: "county:&#34;jackson&#34; stateprovince:&#34;South Dakota&#34;" ; Times: 1
+	Query: "Brachylagus idahoensis" ; Times: 1
+	Query: "PUMA CONCOLOR" ; Times: 2
+	Query: "Oryctolagus cuniculus" ; Times: 1
+	Query: "Puma Concolor" ; Times: 1
+	Query: "genus:martes continent:north america" ; Times: 1
+
+
+End of report.
