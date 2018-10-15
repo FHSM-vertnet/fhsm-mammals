@@ -1,0 +1,183 @@
+Report for Institution Code FHSM, Resource fhsm_mammals
+Usage stats for December 2017, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 81
+Number of records retrieved in searches: 1061
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 61
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 10
+	Country: United Kingdom ; Times: 4
+	Country: China ; Times: 2
+	Country: Russia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-06 ; Times: 7
+	Date: 2017-12-03 ; Times: 3
+	Date: 2017-12-29 ; Times: 3
+	Date: 2017-12-27 ; Times: 1
+	Date: 2017-12-26 ; Times: 12
+	Date: 2017-12-25 ; Times: 1
+	Date: 2017-12-24 ; Times: 1
+	Date: 2017-12-21 ; Times: 6
+	Date: 2017-12-20 ; Times: 5
+	Date: 2017-12-05 ; Times: 12
+	Date: 2017-12-07 ; Times: 1
+	Date: 2017-12-15 ; Times: 1
+	Date: 2017-12-01 ; Times: 6
+	Date: 2017-12-13 ; Times: 2
+	Date: 2017-12-10 ; Times: 1
+	Date: 2017-12-31 ; Times: 5
+	Date: 2017-12-12 ; Times: 5
+	Date: 2017-12-09 ; Times: 1
+	Date: 2017-12-08 ; Times: 1
+	Date: 2017-12-18 ; Times: 1
+	Date: 2017-12-19 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "distance(location,geopoint(43.1386926445001,-71.1485120105))&lt;29323" ; Times: 1
+	Query: "Zapus 2691" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;denton&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;Jefferson&#34; stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "catalognumber:30411" ; Times: 1
+	Query: "catalognumber:30410" ; Times: 1
+	Query: "catalognumber:39249" ; Times: 2
+	Query: "specificepithet:merriami genus:Sorex stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "LASIURUS SEMINOLUS" ; Times: 2
+	Query: "genus:blarina stateprovince:&#34;missouri&#34;" ; Times: 6
+	Query: "sorex dispar" ; Times: 2
+	Query: "specificepithet:keaysi genus:Myotis" ; Times: 2
+	Query: "16622" ; Times: 1
+	Query: "genus:blarina stateprovince:&#34;kansas&#34;" ; Times: 1
+	Query: "specificepithet:merriami genus:Sorex mappable:1" ; Times: 1
+	Query: "FHSM 16826" ; Times: 3
+	Query: "37061" ; Times: 1
+	Query: "specificepithet:castanops genus:Cratogeomys year &gt;= 2001 year &lt;= 2017 mappable:1" ; Times: 1
+	Query: "Romerolagus diazi" ; Times: 1
+	Query: "procyon lotor stateprovince:&#34;Nebraska&#34;" ; Times: 3
+	Query: "34420" ; Times: 1
+	Query: "specificepithet:palustris genus:Oryzomys stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "Timberwolf" ; Times: 1
+	Query: "19403" ; Times: 1
+	Query: "catalognumber:642" ; Times: 1
+	Query: "catalognumber:30409" ; Times: 1
+	Query: "Myotis keaysi" ; Times: 2
+	Query: "Zapus 2734" ; Times: 1
+	Query: "gbifdatasetid:84e6e5f8-f762-11e1-a439-00145eb45e9a" ; Times: 4
+	Query: "Mustela nigripes mappable:1" ; Times: 1
+	Query: "lasiurus seminolus" ; Times: 3
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;cooke&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "catalognumber:9995" ; Times: 1
+	Query: "17521 class:mammalia" ; Times: 1
+	Query: "genus:Mustela specificepithet:nigripes stateprovince:(colorado OR kansas) year&gt;=1900" ; Times: 4
+	Query: "timberwolf" ; Times: 1
+	Query: "17521 class:mammalia year &gt;= 1970 year &lt;= 1990" ; Times: 1
+	Query: "order:Chiroptera county:&#34;Adair&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "specificepithet:penicillatus genus:Chaetodipus county:&#34;Riverside&#34; year &gt;= 1800 year &lt;= 1950" ; Times: 1
+	Query: "catalognumber:17194" ; Times: 1
+	Query: "22704" ; Times: 1
+	Query: "panthera tigris" ; Times: 4
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 5
+	Query: "29809" ; Times: 1
+	Query: "32745" ; Times: 1
+	Query: "22094" ; Times: 1
+	Query: "genus:Mustela specificepithet:nigripes mappable:1" ; Times: 4
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;clear creek&#34; stateprovince:&#34;colorado&#34; mappable:1" ; Times: 1
+	Query: "lasiurus seminolus vntype:specimen stateprovince:&#34;georgia&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 62 (out of 674 download events in this period)
+Total number of records downloaded: 44619
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 55
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Colombia ; Times: 1
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-28 ; Times: 1
+	Date: 2017-12-27 ; Times: 10
+	Date: 2017-12-26 ; Times: 17
+	Date: 2017-12-11 ; Times: 2
+	Date: 2017-12-20 ; Times: 2
+	Date: 2017-12-04 ; Times: 2
+	Date: 2017-12-14 ; Times: 7
+	Date: 2017-12-06 ; Times: 1
+	Date: 2017-12-31 ; Times: 4
+	Date: 2017-12-30 ; Times: 1
+	Date: 2017-12-15 ; Times: 2
+	Date: 2017-12-18 ; Times: 2
+	Date: 2017-12-19 ; Times: 11
+
+List of queries that retrieved data from the resource: 
+	Query: "Odocoileus hemionus mappable:1" ; Times: 1
+	Query: "Sylvilagus audubonii mappable:1" ; Times: 2
+	Query: "Sciurus aberti" ; Times: 1
+	Query: "Sciurus carolinensis mappable:1" ; Times: 1
+	Query: "Martes pennanti mappable:1" ; Times: 1
+	Query: "Spermophilus columbianus mappable:1" ; Times: 1
+	Query: "Microtus chrotorrhinus" ; Times: 1
+	Query: "specificepithet:austroriparius genus:Myotis" ; Times: 1
+	Query: "Lepus townsendii mappable:1" ; Times: 1
+	Query: "Napaeozapus insignis mappable:1" ; Times: 1
+	Query: "sorex hoyi" ; Times: 1
+	Query: "sorex vagrans" ; Times: 1
+	Query: "sorex dispar" ; Times: 1
+	Query: "sorex nanus" ; Times: 1
+	Query: "Microtus pinetorum mappable:1" ; Times: 1
+	Query: "Tamiasciurus hudsonicus mappable:1" ; Times: 1
+	Query: "Spermophilus richardsonii mappable:1" ; Times: 1
+	Query: "gbifdatasetid:84e6e5f8-f762-11e1-a439-00145eb45e9a" ; Times: 1
+	Query: "vntype:specimen specificepithet:maniculatus genus:Peromyscus basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Zapus hudsonius mappable:1" ; Times: 1
+	Query: "Mustela erminea mappable:1" ; Times: 1
+	Query: "specificepithet:castanops genus:Cratogeomys year &gt;= 2001 year &lt;= 2017 mappable:1" ; Times: 1
+	Query: "specificepithet:grisescens genus:Myotis" ; Times: 1
+	Query: "sorex longirostris" ; Times: 1
+	Query: "Callospermophilus lateralis" ; Times: 1
+	Query: "Sylvilagus nuttallii mappable:1" ; Times: 1
+	Query: "sorex monticolus" ; Times: 1
+	Query: "Zapus princeps mappable:1" ; Times: 1
+	Query: "sorex palustris" ; Times: 1
+	Query: "specificepithet:palustris genus:Oryzomys stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "Tamiasciurus douglasii mappable:1" ; Times: 1
+	Query: "Noctilio albiventris" ; Times: 1
+	Query: "microtus montanus" ; Times: 1
+	Query: "Spermophilus franklinii mappable:1" ; Times: 1
+	Query: "Mustela nivalis mappable:1" ; Times: 2
+	Query: "Microtus ochrogaster" ; Times: 1
+	Query: "Synaptomys borealis mappable:1" ; Times: 1
+	Query: "microtus pennsylvanicus" ; Times: 1
+	Query: "Sylvilagus floridanus" ; Times: 1
+	Query: "Sciurus niger mappable:1" ; Times: 1
+	Query: "microtus chrotorrhinus mappable:1" ; Times: 1
+	Query: "Mustela nigripes mappable:1" ; Times: 1
+	Query: "lasiurus seminolus" ; Times: 1
+	Query: "Microtus richardsoni" ; Times: 1
+	Query: "sorex merriami" ; Times: 1
+	Query: "Perognathus flavescens mappable:1" ; Times: 1
+	Query: "sorex fumeus" ; Times: 1
+	Query: "Pteronotus gymnonotus" ; Times: 1
+	Query: "sciurus arizonensis" ; Times: 1
+	Query: "sylvilagus audubonii" ; Times: 1
+	Query: "specificepithet:castanops genus:Cratogeomys year &gt;= 1970 year &lt;= 2000 mappable:1" ; Times: 1
+	Query: "Mustela frenata mappable:1" ; Times: 1
+	Query: "panthera tigris" ; Times: 2
+	Query: "Martes americana mappable:1" ; Times: 1
+	Query: "Spermophilus tridecemlineatus mappable:1" ; Times: 1
+	Query: "Perognathus fasciatus mappable:1" ; Times: 1
+	Query: "sorex haydeni" ; Times: 1
+	Query: "Sylvilagus floridanus mappable:1" ; Times: 1
+	Query: "Microtus townsendii" ; Times: 1
+
+
+End of report.
