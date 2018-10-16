@@ -1,0 +1,213 @@
+Report for Institution Code FHSM, Resource fhsm_mammals
+Usage stats for April 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 149
+Number of records retrieved in searches: 3842
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 3
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 5
+	Country: India ; Times: 2
+	Country: United States ; Times: 128
+	Country: China ; Times: 3
+	Country: Denmark ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Russia ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-29 ; Times: 3
+	Date: 2018-04-23 ; Times: 30
+	Date: 2018-04-22 ; Times: 9
+	Date: 2018-04-21 ; Times: 1
+	Date: 2018-04-27 ; Times: 8
+	Date: 2018-04-26 ; Times: 1
+	Date: 2018-04-25 ; Times: 13
+	Date: 2018-04-24 ; Times: 31
+	Date: 2018-04-03 ; Times: 2
+	Date: 2018-04-02 ; Times: 10
+	Date: 2018-04-05 ; Times: 3
+	Date: 2018-04-04 ; Times: 1
+	Date: 2018-04-07 ; Times: 2
+	Date: 2018-04-06 ; Times: 3
+	Date: 2018-04-09 ; Times: 2
+	Date: 2018-04-08 ; Times: 1
+	Date: 2018-04-13 ; Times: 4
+	Date: 2018-04-11 ; Times: 5
+	Date: 2018-04-16 ; Times: 3
+	Date: 2018-04-17 ; Times: 8
+	Date: 2018-04-15 ; Times: 2
+	Date: 2018-04-18 ; Times: 2
+	Date: 2018-04-19 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "26781" ; Times: 1
+	Query: "vulpes vulpes stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "genus:Neotoma specificepithet:stephensi mappable:1" ; Times: 1
+	Query: "genus:Sylvilagus specificepithet:transitionalis mappable:1" ; Times: 2
+	Query: "specificepithet:nuttalli genus:Ochrotomys stateprovince:&#34;Louisiana&#34;" ; Times: 2
+	Query: "genus:Blarina specificepithet:hylophaga mappable:1" ; Times: 1
+	Query: "genus:Callospermophilus year &gt;= 1967 year &lt;= 1967" ; Times: 1
+	Query: "specificepithet:nuttalli genus:Ochrotomys stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "tadarida brasiliensis stateprovince:Arizona mappable:1" ; Times: 4
+	Query: "specificepithet:nuttalli genus:Ochrotomys stateprovince:&#34;Tennessee&#34;" ; Times: 2
+	Query: "4672 Dipodomys" ; Times: 1
+	Query: "genus:didelphis stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "genus:Sciurus specificepithet:arizonensis mappable:1" ; Times: 2
+	Query: "specificepithet:gossypinus genus:Peromyscus" ; Times: 6
+	Query: "eumops perotis stateprovince:Arizona mappable:1" ; Times: 1
+	Query: "16232" ; Times: 1
+	Query: "genus:Sylvilagus specificepithet:aquaticus mappable:1" ; Times: 2
+	Query: "genus:didelphis stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "genus:Geomys specificepithet:attwateri mappable:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:virginianus genus:Didelphis" ; Times: 1
+	Query: "sciurus aberti stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "specificepithet:velox genus:Vulpes year &gt;= 1981 year &lt;= 2000" ; Times: 1
+	Query: "genus:Tamias specificepithet:cinereicollis mappable:1" ; Times: 2
+	Query: "34929" ; Times: 2
+	Query: "specificepithet:hylophaga genus:blarina" ; Times: 4
+	Query: "genus:Ammospermophilus specificepithet:interpres mappable:1" ; Times: 1
+	Query: "genus:Tamias specificepithet:canipes mappable:1" ; Times: 2
+	Query: "genus:Sorex specificepithet:dispar mappable:1" ; Times: 2
+	Query: "genus:Sorex specificepithet:nanus mappable:1" ; Times: 2
+	Query: "genus:Cynomys specificepithet:leucurus mappable:1" ; Times: 1
+	Query: "genus:Tamias specificepithet:ruficaudus mappable:1" ; Times: 2
+	Query: "29688" ; Times: 1
+	Query: "genus:Dipodomys specificepithet:elator mappable:1" ; Times: 1
+	Query: "Fort hays state" ; Times: 1
+	Query: "tamiasciurus hudsonicus stateprovince:Arizona mappable:1" ; Times: 1
+	Query: "macrotus californicus stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "31224" ; Times: 1
+	Query: "specificepithet:polionotus genus:Peromyscus" ; Times: 3
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 2001 year &lt;= 2018" ; Times: 1
+	Query: "genus:Dasypus specificepithet:novemcinctus mappable:1" ; Times: 1
+	Query: "genus:Romerolagus specificepithet:diazi mappable:1" ; Times: 1
+	Query: "29110" ; Times: 1
+	Query: "specificepithet:americana genus:Antilocapra institutioncode:FHSM" ; Times: 1
+	Query: "Myotis septentrionalis mappable:1" ; Times: 1
+	Query: "35872" ; Times: 1
+	Query: "Vulpes gunnison colorado" ; Times: 2
+	Query: "genus:Reithrodontomys specificepithet:montanus mappable:1" ; Times: 1
+	Query: "choeronycteris mexicana stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "Myotis keaysi" ; Times: 8
+	Query: "genus:Cryptotis specificepithet:nigrescens mappable:1" ; Times: 1
+	Query: "genus:trachops " ; Times: 1
+	Query: "iowa Myotis lucifugus" ; Times: 1
+	Query: "genus:Spermophilus specificepithet:mexicanus mappable:1" ; Times: 2
+	Query: "genus:Sorex specificepithet:merriami mappable:1" ; Times: 2
+	Query: "gbifdatasetid:84e6e5f8-f762-11e1-a439-00145eb45e9a" ; Times: 2
+	Query: "genus:Geomys specificepithet:texensis mappable:1" ; Times: 1
+	Query: "sciurus arizonensis stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "genus:Sorex specificepithet:sonomae mappable:1" ; Times: 2
+	Query: "specificepithet:nuttalli genus:Ochrotomys stateprovince:&#34;Kentucky&#34;" ; Times: 1
+	Query: "genus:Perognathus specificepithet:fasciatus mappable:1" ; Times: 1
+	Query: "specificepithet:nuttalli genus:Ochrotomys stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "genus:Mustela specificepithet:nigripes stateprovince:(colorado OR kansas) year&gt;=1900" ; Times: 6
+	Query: "genus:Lasionycteris month &gt;= 6 month &lt;= 7 institutioncode:FHSM" ; Times: 1
+	Query: "genus:Microtus specificepithet:chrotorrhinus mappable:1" ; Times: 1
+	Query: "genus:Lasiurus month &gt;= 6 month &lt;= 7 institutioncode:FHSM" ; Times: 2
+	Query: "genus:Erethizon stateprovince:&#34;texas&#34;" ; Times: 2
+	Query: "genus:Callospermophilus specificepithet:saturatus mappable:1" ; Times: 1
+	Query: "13989" ; Times: 1
+	Query: "36218" ; Times: 1
+	Query: "Panthera tigris mappable:1" ; Times: 1
+	Query: "genus:Sorex specificepithet:haydeni mappable:1" ; Times: 2
+	Query: "19122" ; Times: 1
+	Query: "specificepithet:nuttalli genus:Ochrotomys stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "genus:Thomomys specificepithet:bulbivorus mappable:1" ; Times: 2
+	Query: "genus:Brachylagus specificepithet:idahoensis mappable:1" ; Times: 1
+	Query: "panthera tigris" ; Times: 2
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 6
+	Query: "ammospermophilus harrisii stateprovince:Arizona mappable:1" ; Times: 3
+	Query: "specificepithet:nigrescens genus:cryptotis" ; Times: 2
+	Query: "genus:Mustela specificepithet:nigripes mappable:1" ; Times: 8
+	Query: "genus:Reithrodontomys specificepithet:mexicanus mappable:1" ; Times: 1
+	Query: "iowa Myotis septentrionalis" ; Times: 1
+	Query: "genus:Geomys specificepithet:breviceps mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 48 (out of 1359 download events in this period)
+Total number of records downloaded: 15859
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 5
+	Country: Unknown ; Times: 1
+	Country: Finland ; Times: 1
+	Country: India ; Times: 1
+	Country: United States ; Times: 36
+	Country: Colombia ; Times: 3
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-12 ; Times: 2
+	Date: 2018-04-13 ; Times: 5
+	Date: 2018-04-03 ; Times: 2
+	Date: 2018-04-02 ; Times: 2
+	Date: 2018-04-05 ; Times: 2
+	Date: 2018-04-04 ; Times: 1
+	Date: 2018-04-15 ; Times: 10
+	Date: 2018-04-09 ; Times: 3
+	Date: 2018-04-08 ; Times: 2
+	Date: 2018-04-18 ; Times: 1
+	Date: 2018-04-10 ; Times: 3
+	Date: 2018-04-16 ; Times: 3
+	Date: 2018-04-29 ; Times: 3
+	Date: 2018-04-11 ; Times: 1
+	Date: 2018-04-17 ; Times: 1
+	Date: 2018-04-22 ; Times: 1
+	Date: 2018-04-30 ; Times: 1
+	Date: 2018-04-25 ; Times: 2
+	Date: 2018-04-24 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:mus continent:North America" ; Times: 1
+	Query: "order:Rodentia county:&#34;Fresno&#34;" ; Times: 1
+	Query: "order:chiroptera stateprovince:&#34;Sinaloa&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "Caqueta" ; Times: 3
+	Query: "Saguinus oedipus" ; Times: 1
+	Query: "genus:bison mappable:1" ; Times: 1
+	Query: "Reithrodontomys mexicanus" ; Times: 1
+	Query: "distance(location,geopoint(47.12999,-99.25055))&lt;50000" ; Times: 1
+	Query: "distance(location,geopoint(39.10077,-96.56309))&lt;50000" ; Times: 1
+	Query: "class:Mammalia county:&#34;Harney&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "order:Rodentia county:&#34;San Bernardino&#34;" ; Times: 1
+	Query: "specificepithet:americana genus:Antilocapra institutioncode:FHSM" ; Times: 1
+	Query: "sciurus aberti" ; Times: 1
+	Query: "genus:Lasiurus" ; Times: 1
+	Query: "genus:myotis family:vespertilionidae" ; Times: 1
+	Query: "distance(location,geopoint(33.37859,-97.78226))&lt;50000" ; Times: 1
+	Query: "specificepithet:hemionus genus:Odocoileus mappable:1" ; Times: 1
+	Query: "order:Rodentia county:&#34;inyo&#34;" ; Times: 1
+	Query: "distance(location,geopoint(47.15909,-99.11388))&lt;50000" ; Times: 1
+	Query: "oryctolagus" ; Times: 1
+	Query: "distance(location,geopoint(47.12823,-99.24136))&lt;50000" ; Times: 1
+	Query: "specificepithet:leucopus genus:peromyscus" ; Times: 3
+	Query: "specificepithet:canadensis genus:Castor" ; Times: 2
+	Query: "distance(location,geopoint(35.41059,-99.05879))&lt;50000" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "procyon lotor" ; Times: 1
+	Query: "*Urocitellus columbianus" ; Times: 1
+	Query: "order:Rodentia county:&#34;tulare&#34;" ; Times: 1
+	Query: "specificepithet:brasiliensis genus:tadarida country:&#34;Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "distance(location,geopoint(33.40123,-97.57))&lt;50000" ; Times: 1
+	Query: "genus:Erethizon stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "distance(location,geopoint(47.16165,-99.10656))&lt;50000" ; Times: 1
+	Query: "specificepithet:lotor genus:Procyon country:&#34;United States&#34;" ; Times: 1
+	Query: "myotis septentrionalis" ; Times: 1
+	Query: "specificepithet:hylophaga genus:blarina" ; Times: 1
+	Query: "specificepithet:elaphus genus:Cervus mappable:1" ; Times: 1
+	Query: "panthera tigris" ; Times: 1
+	Query: "distance(location,geopoint(39.75825,-102.4471))&lt;50000" ; Times: 1
+	Query: "specificepithet:cinereus genus:lasiurus stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:noctivagans genus:lasionycteris stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "distance(location,geopoint(39.10506,-96.60336))&lt;50000" ; Times: 1
+	Query: "order:Rodentia county:&#34;Kern&#34;" ; Times: 1
+	Query: "distance(location,geopoint(38.24833,-109.38827))&lt;50000" ; Times: 1
+
+
+End of report.
