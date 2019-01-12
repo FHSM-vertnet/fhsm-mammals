@@ -1,0 +1,189 @@
+Report for Institution Code FHSM, Resource fhsm_mammals
+Usage stats for December 2018, generated on 2019/01/12
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 86
+Number of records retrieved in searches: 571
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Israel ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: United States ; Times: 72
+	Country: Sweden ; Times: 3
+	Country: Germany ; Times: 1
+	Country: Russia ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-09 ; Times: 3
+	Date: 2018-12-05 ; Times: 4
+	Date: 2018-12-13 ; Times: 3
+	Date: 2018-12-19 ; Times: 10
+	Date: 2018-12-02 ; Times: 1
+	Date: 2018-12-30 ; Times: 1
+	Date: 2018-12-03 ; Times: 4
+	Date: 2018-12-21 ; Times: 7
+	Date: 2018-12-23 ; Times: 1
+	Date: 2018-12-24 ; Times: 1
+	Date: 2018-12-18 ; Times: 12
+	Date: 2018-12-27 ; Times: 1
+	Date: 2018-12-06 ; Times: 1
+	Date: 2018-12-14 ; Times: 6
+	Date: 2018-12-17 ; Times: 3
+	Date: 2018-12-16 ; Times: 2
+	Date: 2018-12-11 ; Times: 1
+	Date: 2018-12-04 ; Times: 8
+	Date: 2018-12-07 ; Times: 9
+	Date: 2018-12-12 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:albigula genus:Neotoma locality:Glenwood county:&#34;catron&#34; stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis family:Canidae stateprovince:&#34;South Dakota&#34;" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "25721" ; Times: 1
+	Query: "37809" ; Times: 1
+	Query: "catalognumber:12915 institutioncode:FHSM" ; Times: 3
+	Query: "catalognumber:12598 institutioncode:FHSM" ; Times: 5
+	Query: "16431" ; Times: 3
+	Query: "panthera  tigris" ; Times: 1
+	Query: "35646" ; Times: 1
+	Query: "Nyctinomops macrotis" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes family:Canidae stateprovince:&#34;colorado&#34;" ; Times: 1
+	Query: "specificepithet:Lupus genus:Canis stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Mustela nigripes" ; Times: 1
+	Query: "dipodomys elator" ; Times: 5
+	Query: "Lepus townsendii kansas stafford" ; Times: 1
+	Query: "sorex 35387" ; Times: 2
+	Query: "catalognumber:8779 institutioncode:FHSM" ; Times: 2
+	Query: "catalognumber:11660" ; Times: 1
+	Query: "34884" ; Times: 1
+	Query: "specificepithet:lupus genus:Canis stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "Myotis keaysi" ; Times: 1
+	Query: "choeronycteris vntype:specimen stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "specificepithet:elator genus:dipodomys institutioncode:FHSM" ; Times: 1
+	Query: "specificepithet:velox genus:Vulpes family:Canidae county:&#34;lincoln&#34; stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "catalognumber:17579 institutioncode:FHSM" ; Times: 1
+	Query: "FHSM 11279" ; Times: 1
+	Query: "FHSM 11278" ; Times: 1
+	Query: "12281" ; Times: 1
+	Query: "specificepithet:boylii genus:Peromyscus locality:glenwood stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "genus:Mustela specificepithet:nigripes stateprovince:(colorado OR kansas) year&gt;=1900" ; Times: 3
+	Query: "genus:mustela specificepithet:nigripes basisofrecord:preservedspecimen" ; Times: 1
+	Query: "specificepithet:albigula genus:Neotoma locality:Glenwood stateprovince:&#34;New Mexico&#34;" ; Times: 4
+	Query: "33307" ; Times: 2
+	Query: "vntype:specimen specificepithet:vulpes genus:vulpes family:Canidae stateprovince:&#34;Colorado&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Geomys stateprovince:&#34;Missouri&#34;" ; Times: 5
+	Query: "specificepithet:elator genus:dipodomys" ; Times: 3
+	Query: "specificepithet:albigula genus:Neotoma county:&#34;catron&#34; stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "specificepithet:canadensis genus:Castor stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Mustela specificepithet:nigripes mappable:1" ; Times: 1
+	Query: "sorex 35768" ; Times: 2
+	Query: "catalognumber:34901" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes family:Canidae stateprovince:&#34;nebraska&#34;" ; Times: 1
+	Query: "Lepus californicus kansas" ; Times: 1
+	Query: "choeronycteris stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "Geomys texensis" ; Times: 1
+	Query: "gbifdatasetid:84e6e5f8-f762-11e1-a439-00145eb45e9a" ; Times: 1
+	Query: "35923" ; Times: 1
+	Query: "Lepus kansas stafford" ; Times: 3
+	Query: "Lepus californicus kansas stafford" ; Times: 1
+	Query: "32115" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 4
+	Query: "35439" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 68 (out of 809 download events in this period)
+Total number of records downloaded: 14751
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 37
+	Country: India ; Times: 4
+	Country: France ; Times: 1
+	Country: United States ; Times: 20
+	Country: Russia ; Times: 1
+	Country: Ecuador ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-09 ; Times: 19
+	Date: 2018-12-11 ; Times: 5
+	Date: 2018-12-30 ; Times: 1
+	Date: 2018-12-10 ; Times: 13
+	Date: 2018-12-20 ; Times: 2
+	Date: 2018-12-21 ; Times: 2
+	Date: 2018-12-22 ; Times: 4
+	Date: 2018-12-19 ; Times: 1
+	Date: 2018-12-18 ; Times: 5
+	Date: 2018-12-08 ; Times: 2
+	Date: 2018-12-27 ; Times: 1
+	Date: 2018-12-15 ; Times: 1
+	Date: 2018-12-07 ; Times: 7
+	Date: 2018-12-17 ; Times: 1
+	Date: 2018-12-04 ; Times: 3
+	Date: 2018-12-03 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "ototylomys phyllotis" ; Times: 1
+	Query: "Eptesicus fuscus" ; Times: 1
+	Query: "Molossus molossus" ; Times: 1
+	Query: "Heteromys desmarestianus" ; Times: 1
+	Query: "uroderma bilobatum" ; Times: 1
+	Query: "Peromyscus nasutus mexico" ; Times: 1
+	Query: "noctilio leporinus" ; Times: 1
+	Query: "genus:dipodomys county:&#34;san benito&#34;" ; Times: 1
+	Query: "Chaetodipus fallax" ; Times: 1
+	Query: "urocyon cinereoargenteus" ; Times: 1
+	Query: "oryzomys melanotis" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "Puma concolor" ; Times: 1
+	Query: "felis silvestris" ; Times: 1
+	Query: "Glossophaga soricina" ; Times: 4
+	Query: "platyrrhinus helleri" ; Times: 1
+	Query: "specificepithet:Lupus genus:Canis stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "class:Mammalia county:&#34;tulare&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "peromyscus leucopus" ; Times: 1
+	Query: "pteronotus davyi" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "pteronotus parnellii" ; Times: 1
+	Query: "pecari tajacu" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "Mustela frenata" ; Times: 1
+	Query: "trachops cirrhosus" ; Times: 1
+	Query: "puma concolor" ; Times: 2
+	Query: "Vulpes vulpes colorado" ; Times: 1
+	Query: "saccopteryx bilineata" ; Times: 1
+	Query: "specificepithet:elator genus:dipodomys institutioncode:FHSM" ; Times: 1
+	Query: "Chaetodipus intermedius" ; Times: 2
+	Query: "procyon lotor" ; Times: 1
+	Query: "Platyrrhinus helleri" ; Times: 1
+	Query: "Lasiurus intermedius" ; Times: 1
+	Query: "tadarida brasiliensis" ; Times: 1
+	Query: "Dipodomys ordii" ; Times: 2
+	Query: "carollia perspicillata" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "specificepithet:townsendii genus:lepus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "lynx rufus" ; Times: 1
+	Query: "desmodus rotundus" ; Times: 1
+	Query: "Syncerus caffer vntype:specimen" ; Times: 1
+	Query: "sturnira lilium" ; Times: 1
+	Query: "genus:Geomys stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "Panthera leo vntype:specimen" ; Times: 1
+	Query: "specificepithet:elator genus:dipodomys" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "lynx lynx" ; Times: 1
+	Query: "Artibeus phaeotis" ; Times: 1
+	Query: "sylvilagus floridanus" ; Times: 1
+	Query: "country:&#34;Mexico&#34; continent:America" ; Times: 2
+	Query: "sigmodon hispidus" ; Times: 1
+	Query: "Noctilio leporinus" ; Times: 1
+	Query: "vntype:specimen specificepithet:maritimus genus:Ursus" ; Times: 1
+	Query: "class:Mammalia county:&#34;fresno&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "canis latrans" ; Times: 3
+	Query: "Chaetodipus hispidus" ; Times: 2
+
+
+End of report.
