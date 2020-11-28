@@ -1,0 +1,174 @@
+Report for Institution Code FHSM, Resource fhsm_mammals
+Usage stats for July 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 90
+Number of records retrieved in searches: 523
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Colombia ; Times: 2
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 4
+	Country: United States ; Times: 69
+	Country: Peru ; Times: 2
+	Country: Argentina ; Times: 7
+	Country: Ecuador ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-09 ; Times: 1
+	Date: 2020-07-08 ; Times: 1
+	Date: 2020-07-21 ; Times: 2
+	Date: 2020-07-20 ; Times: 3
+	Date: 2020-07-25 ; Times: 2
+	Date: 2020-07-24 ; Times: 2
+	Date: 2020-07-01 ; Times: 1
+	Date: 2020-07-03 ; Times: 1
+	Date: 2020-07-02 ; Times: 7
+	Date: 2020-07-05 ; Times: 2
+	Date: 2020-07-07 ; Times: 5
+	Date: 2020-07-06 ; Times: 10
+	Date: 2020-07-23 ; Times: 2
+	Date: 2020-07-29 ; Times: 4
+	Date: 2020-07-28 ; Times: 2
+	Date: 2020-07-12 ; Times: 1
+	Date: 2020-07-13 ; Times: 1
+	Date: 2020-07-10 ; Times: 1
+	Date: 2020-07-11 ; Times: 4
+	Date: 2020-07-16 ; Times: 1
+	Date: 2020-07-31 ; Times: 2
+	Date: 2020-07-14 ; Times: 23
+	Date: 2020-07-17 ; Times: 3
+	Date: 2020-07-22 ; Times: 5
+	Date: 2020-07-15 ; Times: 3
+	Date: 2020-07-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:chrotorrhinus genus:Microtus county:&#34;Essex&#34; stateprovince:&#34;New York&#34;" ; Times: 2
+	Query: "scharninghausen" ; Times: 2
+	Query: "genus:Conepatus institutioncode:FHSM" ; Times: 5
+	Query: "genus:Microtus county:&#34;Essex&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "genus:Antilocapra" ; Times: 3
+	Query: "genus:Panthera distance(location,geopoint(19.781754752564026,-115.96025528759438))&lt;3120076" ; Times: 1
+	Query: "catalognumber:12915 institutioncode:FHSM" ; Times: 3
+	Query: "catalognumber:12598 institutioncode:FHSM" ; Times: 2
+	Query: "M-16350" ; Times: 2
+	Query: "family:Canidae (zoo OR captive) AND (NOT lupus NOT latrans)" ; Times: 1
+	Query: "28567" ; Times: 1
+	Query: "Neotoma cinerea" ; Times: 2
+	Query: "16350" ; Times: 1
+	Query: "family:Canidae (zoo OR captive) AND (NOT lupus NOT latrans NOT MSB NOT OMNH NOT ROM NOT AMNH NOT CAS NOT HSU NOT DMNS NOT FMNH NOT LACM NOT NHMUK NOT MSU NOT KU)" ; Times: 1
+	Query: "catalognumber:37676" ; Times: 1
+	Query: "23630" ; Times: 1
+	Query: "FHSM 541" ; Times: 1
+	Query: "family:Canidae (zoo OR captive) AND (NOT lupus NOT latrans NOT MSB NOT OMNH NOT ROM NOT AMNH NOT CAS NOT HSU NOT DMNS NOT FMNH NOT LACM NOT NHMUK NOT MSU NOT KU NOT PSM NOT UMMZ)" ; Times: 1
+	Query: "family:Canidae (zoo OR captive) AND (NOT lupus NOT latrans NOT MSB NOT OMNH NOT ROM NOT AMNH NOT CAS NOT HSU NOT DMNS NOT FMNH NOT LACM NOT NHMUK NOT MSU NOT KU NOT PSM)" ; Times: 1
+	Query: "catalognumber:7478" ; Times: 1
+	Query: "Myrmecophaga" ; Times: 1
+	Query: "family:Canidae (zoo OR captive) AND (NOT lupus NOT latrans NOT MSB NOT OMNH NOT ROM NOT AMNH NOT CAS NOT HSU NOT DMNS NOT FMNH NOT LACM)" ; Times: 1
+	Query: "Conepatus" ; Times: 1
+	Query: "catalognumber:10805 institutioncode:FHSM" ; Times: 3
+	Query: "(abernathy)" ; Times: 1
+	Query: "28482" ; Times: 1
+	Query: "genus:Napaeozapus county:&#34;Essex&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "family:Canidae (zoo OR captive) AND (NOT lupus NOT latrans NOT MSB NOT OMNH NOT ROM)" ; Times: 1
+	Query: "28078" ; Times: 2
+	Query: "ADM 4" ; Times: 1
+	Query: "32839" ; Times: 1
+	Query: "catalognumber:15269 institutioncode:FHSM" ; Times: 1
+	Query: "catalognumber:9662 institutioncode:FHSM" ; Times: 2
+	Query: "geomys bursarius missouri" ; Times: 1
+	Query: "31031" ; Times: 1
+	Query: "family:Canidae (zoo OR captive) AND (NOT lupus NOT latrans NOT MSB NOT OMNH NOT ROM NOT AMNH NOT CAS NOT HSU)" ; Times: 1
+	Query: "catalognumber:16573 institutioncode:FHSM" ; Times: 1
+	Query: "genus:blarina county:&#34;Oneida&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "catalognumber:8072 institutioncode:FHSM" ; Times: 2
+	Query: "Microtus richardsoni year &gt;= 1990 year &lt;= 2020" ; Times: 3
+	Query: "Dipodomys nitratoides" ; Times: 1
+	Query: "catalognumber:16465 institutioncode:FHSM" ; Times: 1
+	Query: "county:&#34;Clark&#34; stateprovince:&#34;Kansas&#34; institutioncode:FHSM" ; Times: 1
+	Query: "Dipodomys elator" ; Times: 2
+	Query: "Sylvilagus aquaticus stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "genus:Mustela specificepithet:nigripes stateprovince:(colorado OR kansas) year&gt;=1900" ; Times: 2
+	Query: "catalognumber:13596 institutioncode:FHSM" ; Times: 3
+	Query: "27947" ; Times: 2
+	Query: "geomys bursarius arkansas" ; Times: 1
+	Query: "21099" ; Times: 1
+	Query: "37676" ; Times: 1
+	Query: "fhsm eagle" ; Times: 1
+	Query: "19825" ; Times: 1
+	Query: "21252" ; Times: 1
+	Query: "genus:Oryzomys" ; Times: 2
+	Query: "39186" ; Times: 1
+	Query: "Brachylagus idahoensis" ; Times: 2
+	Query: "specificepithet:lotor genus:Procyon (zoo OR captive)" ; Times: 1
+	Query: "catalognumber:16553" ; Times: 1
+	Query: "catalognumber:14432 institutioncode:FHSM" ; Times: 1
+	Query: "specificepithet:chrotorrhinus genus:Microtus stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "35921" ; Times: 1
+	Query: "scharninghausen institutioncode:FHSM" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 30 (out of 940 download events in this period)
+Total number of records downloaded: 25947
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 22
+	Country: Colombia ; Times: 2
+	Country: Argentina ; Times: 1
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-09 ; Times: 1
+	Date: 2020-07-22 ; Times: 1
+	Date: 2020-07-18 ; Times: 2
+	Date: 2020-07-19 ; Times: 2
+	Date: 2020-07-16 ; Times: 1
+	Date: 2020-07-13 ; Times: 3
+	Date: 2020-07-03 ; Times: 3
+	Date: 2020-07-02 ; Times: 1
+	Date: 2020-07-30 ; Times: 2
+	Date: 2020-07-31 ; Times: 1
+	Date: 2020-07-21 ; Times: 3
+	Date: 2020-07-17 ; Times: 1
+	Date: 2020-07-06 ; Times: 2
+	Date: 2020-07-28 ; Times: 3
+	Date: 2020-07-10 ; Times: 2
+	Date: 2020-07-15 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Lynx distance(location,geopoint(38.15709787129506,-112.20703125))&lt;2365818.802354772" ; Times: 1
+	Query: "specificepithet:niger genus:Sciurus" ; Times: 1
+	Query: "order:Chiroptera country:&#34;Belize&#34;" ; Times: 1
+	Query: "genus:Conepatus institutioncode:FHSM" ; Times: 1
+	Query: "genus:Lasionycteris continent:North America year &gt;= 1899 year &lt;= 2020 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "specificepithet:nelsoni genus:Chaetodipus" ; Times: 2
+	Query: "vntype:specimen specificepithet:carolinensis genus:Sciurus" ; Times: 1
+	Query: "Perognathus longimembris" ; Times: 1
+	Query: "genus:Peromyscus" ; Times: 1
+	Query: "genus:Panthera distance(location,geopoint(5.063102863259693,-104.00713028759438))&lt;4433185" ; Times: 1
+	Query: "vntype:specimen genus:Peromyscus" ; Times: 1
+	Query: "specificepithet:heermanni genus:dipodomys" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus hastissue:1" ; Times: 1
+	Query: "ursus maritimus" ; Times: 1
+	Query: "genus:ochotona" ; Times: 2
+	Query: "specificepithet:pinetorum genus:Microtus" ; Times: 1
+	Query: "puma concolor" ; Times: 2
+	Query: "genus:Puma" ; Times: 1
+	Query: "cetacea" ; Times: 1
+	Query: "specificepithet:nitratoides genus:dipodomys" ; Times: 1
+	Query: "family:Canidae (zoo OR captive) AND (NOT lupus NOT latrans NOT MSB NOT OMNH NOT ROM NOT AMNH NOT CAS NOT HSU NOT DMNS NOT FMNH NOT LACM NOT NHMUK NOT MSU NOT KU NOT PSM NOT UMMZ)" ; Times: 1
+	Query: "family:felidae" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "Tursiops truncatus" ; Times: 1
+	Query: "specificepithet:volans genus:Glaucomys" ; Times: 1
+	Query: "scharninghausen institutioncode:FHSM" ; Times: 1
+	Query: "Peromyscus gossypinus vntype:specimen" ; Times: 1
+
+
+End of report.
